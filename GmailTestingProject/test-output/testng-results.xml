@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-02T20:29:31Z" name="Default suite" finished-at="2022-12-02T20:30:16Z" duration-ms="45858">
+    <groups>
+    </groups>
+    <test started-at="2022-12-02T20:29:31Z" name="Default test" finished-at="2022-12-02T20:30:16Z" duration-ms="45858">
+      <class name="com.testing.Tests3">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testing.Tests3@177bea38]" started-at="2022-12-02T15:29:31Z" name="beforeMethod" finished-at="2022-12-02T15:29:36Z" duration-ms="4932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValidatingUrlAndSignInTest()[pri:1, instance:com.testing.Tests3@177bea38]" started-at="2022-12-02T15:29:36Z" name="ValidatingUrlAndSignInTest" finished-at="2022-12-02T15:29:53Z" duration-ms="17322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatingUrlAndSignInTest -->
+        <test-method signature="clickMOre()[pri:2, instance:com.testing.Tests3@177bea38]" started-at="2022-12-02T15:29:53Z" name="clickMOre" finished-at="2022-12-02T15:29:53Z" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickMOre -->
+        <test-method signature="MovetoTrashTest()[pri:3, instance:com.testing.Tests3@177bea38]" started-at="2022-12-02T15:29:53Z" name="MovetoTrashTest" finished-at="2022-12-02T15:30:02Z" duration-ms="8548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MovetoTrashTest -->
+        <test-method signature="MovetoinboxTest()[pri:4, instance:com.testing.Tests3@177bea38]" started-at="2022-12-02T15:30:02Z" name="MovetoinboxTest" finished-at="2022-12-02T15:30:11Z" duration-ms="9403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MovetoinboxTest -->
+        <test-method signature="validatingURLandSignout()[pri:5, instance:com.testing.Tests3@177bea38]" started-at="2022-12-02T15:30:11Z" name="validatingURLandSignout" finished-at="2022-12-02T15:30:16Z" duration-ms="5034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingURLandSignout -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:com.testing.Tests3@177bea38]" started-at="2022-12-02T15:30:16Z" name="AfterMethod" finished-at="2022-12-02T15:30:16Z" duration-ms="507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- com.testing.Tests3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
